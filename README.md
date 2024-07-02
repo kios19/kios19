@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm kios19</h1>
 <h3 align="center">Frontend heavy 📢</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kios19" alt="kios19" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://simonkioko.vercel.app/](https://simonkioko.vercel.app/)
 
