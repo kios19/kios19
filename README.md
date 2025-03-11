@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kios19</h1>
+<h1 align="center">Hi 👋, I'm Kioko</h1>
 <h3 align="center">Frontend heavy 📢</h3>
 
 
